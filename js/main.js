@@ -5,4 +5,7 @@ window.onload = () => {
     navigator.serviceWorker
              .register('./sw.js');
   }
+  
+  window.location.href="https://bing.com";
+
 }
