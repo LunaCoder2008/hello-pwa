@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+margin:0;
+  padding:0;
 }
 
 /* Make content area fill the entire browser window */
